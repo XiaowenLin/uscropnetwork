@@ -1,0 +1,9 @@
+Package: uscropnetwork
+Type: Package
+Title: US domestic crop and virtual water trade network analysis
+Version: 1.0
+Date: 2014-08-17
+Author: Xiaowen Lin
+Maintainer: Xiaowen Lin <xiaowenlin89@gmail.com>
+Description: US domestic crop and virtual water trade network analysis
+License: MIT
