@@ -1,0 +1,1 @@
+RC Class for US trade network analysis. TradeTable, TradeMatrix are the two classes created. TradeTable is a layer for extractig data from raw csv files. TradeMatrix is a layer for processing output from TradeTable. Java code for calculation of shortest path is not included yet. 
